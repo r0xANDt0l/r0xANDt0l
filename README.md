@@ -1,6 +1,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r0xANDt0l)](https://github.com/anuraghazra/github-readme-stats)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=r0xANDt0l&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[](https://github-profile-trophy.vercel.app/?username=r0xANDt0l&column=7&theme=onedark)
+[![](https://github-profile-trophy.vercel.app/?username=r0xANDt0l&column=7&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👋 Hi, I’m @r0xANDt0l
 - 👀 I’m interested in 3D design with Fusion360 and Blender, and some game dev
