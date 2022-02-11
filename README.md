@@ -5,8 +5,8 @@
 - A teenager that likes to code and make cool stuff
 - Learning C, C# and Python at the moment, but I also plan on learning Go and Kotlinn
 - You can communicate with me through:
-    * Discord - rOxANDtOl#4906
-    * Matrix - @r0xandt0l:matrix.org
+    - Discord - rOxANDtOl#4906
+    - Matrix - @r0xandt0l:matrix.org
 
 ---
 
