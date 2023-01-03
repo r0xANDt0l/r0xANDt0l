@@ -6,7 +6,7 @@
 - Learning Rust and C the moment, and I know Arduino, a fair bit of Python, and a fair bit of JS, mainly used in p5js
 
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=335812368485318657)
-
+rOxANDtOl#1519
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r0xANDt0l&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
