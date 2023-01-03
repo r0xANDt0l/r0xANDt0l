@@ -3,10 +3,9 @@
 ---
 
 - A teenager that likes to code and make cool stuff
-- Learning C, C# and Python at the moment, but I also plan on learning Go and Kotlinn
-- You can communicate with me through:
-    - Discord - rOxANDtOl#1519
-    - Matrix - @r0xandt0l:matrix.org
+- Learning Rust and C the moment, and I know Arduino, a fair bit of Python, and a fair bit of JS, mainly used in p5js
+
+![My Discord](https://discord-readme-badge.vercel.app/api?id=335812368485318657)
 
 ---
 
